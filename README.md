@@ -15,10 +15,10 @@ If you have any constructive criticism or advice to give me, please let me know.
 # Configuration
 How to config ? | ---
 --- | ---
-token | token of the account you want to use to copy the server (I advise you to use a double account to avoid the ban)
-originalGuildId | id of the server you want to copy
-newGuildId | id of the server you want to copy to
-newGuildAdminRoleId | id d'un role admin sur le nouveau serveur
+token | token of the account you want to use to copy the server (use a double account to avoid the ban)
+originalGuildId | identifier of the server to be copied
+newGuildId | identifier of the server you wish to copy to
+newGuildAdminRoleId | id of an admin role on the new server
 
 
 
@@ -29,5 +29,4 @@ Discord roles
 Discord category
 Discord channel
 Discord permissions 
-
 
